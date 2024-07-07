@@ -56,8 +56,7 @@ I do want to practice more javascript to be able to manipulate and play with the
 ## Author
 
 - Website - [Kapil](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@kapil-77](https://www.frontendmentor.io/profile/kapil-77)
 
 ## Acknowledgments
 
